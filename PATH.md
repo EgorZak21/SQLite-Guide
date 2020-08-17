@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/EgorZak21/SQLite-Guide/master/img/path4.jpg" alt="drawing" width="500"/>
 
-6. Вводим в поле папку папку, которую нужно добавить `(C:\sqlite)`
+6. Вводим в поле папку , которую нужно добавить `(C:\sqlite)`
 
 <img src="https://raw.githubusercontent.com/EgorZak21/SQLite-Guide/master/img/path5.jpg" alt="drawing" width="500"/>
 
